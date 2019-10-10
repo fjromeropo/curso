@@ -1,4 +1,3 @@
-
 Este texto es diferente al del repositorio de github. Nos quedamos con este. 
 
 
